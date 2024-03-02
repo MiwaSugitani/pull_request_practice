@@ -1,3 +1,5 @@
 # favorite food
 
-apple
+orange
+ラーメン
+柿の種
